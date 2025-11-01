@@ -1,0 +1,26 @@
+Aaron Gai sg2088
+
+To compile, do "make"
+
+To test, follow the instuctions below:
+
+Test 1: Basic Functionality:
+./spell dictionaries/basic_dict.txt test_files/basic/simple.txt
+
+Test 2: Punctuation Handling:
+./spell dictionaries/basic_dict.txt test_files/basic/punctuation.txt
+
+Test 3: Number Handling:
+./spell dictionaries/basic_dict.txt test_files/basic/numbers.txt
+
+Test 4: Mixed Case Test:
+./spell dictionaries/case_dict.txt test_files/case_sensitivity/mixed_case.txt
+
+Test 5: Directory Traversal (Default .txt):
+./spell dictionaries/basic_dict.txt test_files/directories/
+
+Test 6: Custom Suffix (.tst)
+./spell -s .tst dictionaries/basic_dict.txt test_files/directories/
+
+Test 7: STDIN Input
+echo "hello world error" | ./spell dictionaries/basic_dict.txt

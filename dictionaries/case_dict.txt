@@ -1,0 +1,10 @@
+foo
+Bar
+Python
+java
+JavaScript
+iPhone
+eBay
+McDonald
+NASA
+pH

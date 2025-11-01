@@ -1,0 +1,4 @@
+New York London Paris Tokyo
+John Smith Microsoft Google Amazon
+Monday Tuesday January February
+English French Spanish Chinese

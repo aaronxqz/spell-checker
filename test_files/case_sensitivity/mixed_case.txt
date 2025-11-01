@@ -1,0 +1,10 @@
+foo Foo FOO fOo
+Bar bar BAR bAr
+Python python PYTHON
+java Java JAVA
+JavaScript javascript JAVASCRIPT
+iPhone iphone IPHONE
+eBay ebay EBAY
+McDonald mcdonald MCDONALD
+NASA nasa NASA
+pH Ph PH

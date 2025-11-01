@@ -1,0 +1,6 @@
+"Hello" world! (This) is a test.
+Can't you see?
+Email@address.com isn't a single word.
+Parentheses (like this)
+"example", 'single quotes', `backticks`. Next line!
+hello-world, test_case, a+b.
